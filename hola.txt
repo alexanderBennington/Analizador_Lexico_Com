@@ -1,0 +1,20 @@
+if(num1 == 23);#
+//askldjlksad klasj dlkjaslkdj lksaj dl
+num2 = num3 + num4 ;
+/*asjkdbkjhsabdkjhb askjdb kjsad 
+asd sadasd
+asdsadasdas
+dsaasdsa
+if(num1 == 23);*/
+num3;
+while(num2 == 34){
+num2 = num3 + num4 ;
+}
+if(bandcomen[0] == 1 && bandcomen[1] == 1){
+            if(j == lon){
+                bandcomen[0] = 0;
+                bandcomen[1] = 0;
+            }
+            j++;
+            num5 = 0;
+        }
